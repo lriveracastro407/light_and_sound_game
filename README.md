@@ -6,7 +6,7 @@ Submitted by: Leonel Rivera-Castro
 
 Time spent: 6 Hours total | 3 hours on main, 2 hours fixing game logic & audio, 1 hour on additional features 
 
-Link to project: https://crawling-north-play.glitch.me
+Link to project: https://glitch.com/edit/#!/crawling-north-play?path=README.md%3A1%3A0
 
 ## Required Functionality
 
